@@ -1,3 +1,2 @@
-API_KEY = 'd7O0LcuzLlOp7avUEVrcbMsm3pnGmrbMTUJCYEds'
-
+API_KEY = 'mogeHvXoDIK7pqK0Erx2UiBS9rBSYLYM5Y1e6vQb'
 URL = 'https://api.nasa.gov/planetary/apod'
