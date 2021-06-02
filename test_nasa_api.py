@@ -1,7 +1,7 @@
 from datetime import date
 from random import randint
 import requests
-from settings import *
+from settings import API_KEY, URL
 
 
 current_date = date.today().strftime('%Y-%m-%d')
